@@ -179,14 +179,4 @@ int main(int argc, char const *argv[]){
 	}	
 	return 0;
 }
-	/*Notas para el profesor:*/
-/*Esta vez el programa me ha quedado muy chapucero, sobretodo por el exit(0); y algunas
-de las soluciones que he tenido que intentar. La IA es muy "basica" al ser aleatoria,
-pero no he tenido tiempo de mejorarla. Sin duda si le hubiese dedicado mas tiempo me habria
-salido un programa mejor.
-Compilando en windows (en casa) me he encontrado con un bug curioso, que al empatar los dados
-hace que el jugador 2 se descontrole y se acabe la partida. Eso antes en Ubuntu no me pasaba, 
-y funcionaba bien, pero tal vez sea que he tocado algo al intentar mejorar el programa.
-El bot tambien tiene bugs, supongo que es por el metodo que he utilizado. Pero con suerte 
-se pude jugar con el bot.
-*/
+	 
